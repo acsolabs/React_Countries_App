@@ -1,5 +1,3 @@
-import React from "react";
-
 const Card = ({ country }) => {
   return (
     <li className="card">
